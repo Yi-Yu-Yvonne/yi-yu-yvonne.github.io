@@ -1,4 +1,4 @@
-# Hi, I'm Yvonne 👋
+# Hi, I'm Yi (Yvonne) Yu 👋
 
 🎓 MS student in Computer Science and Engineering at **The Ohio State University**, USA  
 🇹🇼 B.S. from **National Chengchi University**, Taiwan  
