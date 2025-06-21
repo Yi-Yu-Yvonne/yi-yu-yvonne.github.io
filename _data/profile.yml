@@ -37,11 +37,11 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Ohio State University
+- name: The Ohio State University
   logo: /assets/images/badges/OSU.png
   position:
     Department of Computer Science and Engineering <br/>
-    MS. Student
+    M.S. Student
   date: Aug. 2024 - present
 - name: National Chengchi University
   logo: /assets/images/badges/NCCU.png
