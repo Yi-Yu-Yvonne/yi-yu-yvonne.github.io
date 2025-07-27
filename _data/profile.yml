@@ -25,13 +25,10 @@ short_bio:
   </p>
 
   <p>
-    Currently, I am exploring techniques to accelerate and stabilize LLMs—such as fast inference and decoding methods—alongside efforts to develop robust evaluation benchmarks for medical and other high-stakes domains. My work often involves collaboration with hospitals, schools, and public sector organizations to ensure these models are not only effective but also trustworthy and practically usable.
+    Currently, I am exploring techniques for multitoken prediction and tokenizer design. In parallel, I develop robust evaluation benchmarks for the medical domain. My work involves close collaboration with hospitals to ensure that these models are not only effective, but also trustworthy and practically deployable in real-world clinical settings.
   </p>
 
-  <p>
-    I am passionate about connecting core ML research with real-world impact, and working closely with practitioners and policymakers to turn innovative ideas into actionable, socially meaningful solutions.
-  </p>
-
+  
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
@@ -40,8 +37,7 @@ education:
 - name: The Ohio State University
   logo: /assets/images/badges/OSU.png
   position:
-    Department of Computer Science and Engineering <br/>
-    M.S. Student
+    M.S. in Computer Science and Engineering
   date: Aug. 2024 - Present
 - name: National Chengchi University
   logo: /assets/images/badges/NCCU.png

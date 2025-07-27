@@ -20,8 +20,8 @@ links:
   Paper: https://aclanthology.org/2025.findings-naacl.367/
   Code: https://github.com/cnclabs/codes.mq.mp
   Poster: https://underline.io/events/484/posters/19851/poster/116872-mmlf-multi-query-multi-passage-late-fusion-retrieval?tab=Poster
-  Slides: https://drive.google.com/file/d/1bmUsuV5run0648lWvKmYtoc8oTkpDZBh/view?usp=sharing
-  Video: https://underline.io/events/484/posters/19851/poster/116872-mmlf-multi-query-multi-passage-late-fusion-retrieval?tab=Video
+  # Slides: https://drive.google.com/file/d/1bmUsuV5run0648lWvKmYtoc8oTkpDZBh/view?usp=sharing
+  # Video: https://underline.io/events/484/posters/19851/poster/116872-mmlf-multi-query-multi-passage-late-fusion-retrieval?tab=Video
 
 ---
 
